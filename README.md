@@ -1,8 +1,8 @@
 # Spidra n8n Node
 
-Official [n8n](https://n8n.io) community node for [Spidra](https://spidra.io) — scrape, batch scrape, and crawl websites with AI.
+Official [n8n](https://n8n.io) community node for [Spidra](https://spidra.io).
 
-[Spidra](https://spidra.io) is an AI-powered web scraping platform that lets you extract structured data from any website — including dynamic, JavaScript-heavy, and bot-protected pages — without writing code.
+[Spidra](https://spidra.io) is an AI-powered web scraping platform that lets you extract structured data from any website, including dynamic, JavaScript-heavy, and bot-protected pages without writing code.
 
 ## Features
 

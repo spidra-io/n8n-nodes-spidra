@@ -16,6 +16,12 @@
     "n8n-community-node-package"
   ],
   "main": "index.js",
+  "files": [
+    "dist/",
+    "LICENSE.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md"
+  ],
   "scripts": {
     "build": "tsc && cp nodes/Spidra/spidra.svg dist/nodes/Spidra/spidra.svg",
     "dev": "tsc --watch"
